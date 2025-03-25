@@ -1,0 +1,8 @@
+.mode_listcategory ul>li.active
+{
+    background-color:dimgrey;
+}
+.mode_listcategory ul>li a{
+    color: crimson;
+    text-decoration: none;
+}
